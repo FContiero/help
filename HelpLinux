@@ -1,0 +1,13 @@
+public void comandosLinux() {
+	public void instalarNotepadqq(){
+			sudo add-apt-repository ppa:notepadqq-team/notepadqq;
+			sudo apt-get update;
+			sudo apt-get install notepadqq;
+	}
+	
+	public void instalarAtom() {
+		sudo add-apt-repository ppa:webupd8team/atom;
+		sudo apt-get update;
+		sudo apt-get install atom;
+	}
+}
